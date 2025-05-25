@@ -1,0 +1,23 @@
+{
+  "name": "vcmp-server-browser",
+  "version": "1.0.0",
+  "description": "vcmp online browser",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9",
+    "prettier": "^3.0.0"
+  },
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
